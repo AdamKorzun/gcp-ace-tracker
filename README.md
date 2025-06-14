@@ -1,5 +1,7 @@
 # GCP Associate Cloud Engineer Exam Questions Tracker
 
+<img width="1152" alt="image" src="https://github.com/user-attachments/assets/3ecc0af4-1ca9-46ce-baf1-46646ddc503d" />
+
 A simple web app to help you track your progress through Google Cloud Platform Associate Cloud Engineer exam questions from ExamTopics.
 
 ## Features
